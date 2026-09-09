@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "A little something for you",
+    introTitle: 'Hey you :)',
+    introDesc: `Out of all the people I ended up talking to
+    somehow it was you I kept coming back to.
+    No big speech here, I promise.
+    Just a silly little page for a favourite person.`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'Be honest, am I your favourite person to talk to? 😄',
+    desc: 'Because you are definitely mine.',
+    btnYes: 'Obviously <33',
+    btnNo: 'Nope :3',
+    question: '7 billion people out there and I still text you the most, explain that',
+    btnReply: 'Send it <3',
+    reply: 'You are stuck with me either way <33333333',
+    mess: 'Knew it 😄. You are the best, seriously.',
+    messDesc: 'Anyway, tell me when you are free this week. Coffee is on me.',
+    btnAccept: 'Okiiiii <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //your messenger link. E.g: https://www.facebook.com/messages/t/100014188333536
 }

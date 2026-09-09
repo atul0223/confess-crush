@@ -1,101 +1,101 @@
-## <p align="center"> Tạo một trang web tỏ tình không cần code </p>
+## <p align="center"> Build a confession website without writing any code </p>
 
 ![confess-crush
 ](https://socialify.git.ci/zukahai/confess-crush/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 <hr>
 
-## <p align="center"> Hướng dẫn chi tiết </p>
+## <p align="center"> Detailed guide </p>
 
-* Hướng dẫn làm trang web 
-  * [Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
-  * [Bước 2: Fork project](#bước-2-fork-project) </br>
-  * [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
-  * [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
-* Video Hướng dẫn
-  * [Video hướng dẫn](#-video-hướng-dẫn-)
-* Xem sản phẩm
-  * [Xem sản phẩm](#-ấn-vào-đây-để-xem-kết-quả-tương-tự-của-bạn-)
-* Câu hỏi và phản hồi
-  * [Câu hỏi và phản hồi](#-câu-hỏi-và-phản-hồi-)
+* Guide to building the website
+  * [Step 1: Sign in to GitHub](#step-1-sign-in-to-github) </br>
+  * [Step 2: Fork the project](#step-2-fork-the-project) </br>
+  * [Step 3: Customize the website](#step-3-customize-the-website-however-you-like) </br>
+  * [Step 4: Create the website](#step-4-create-the-website) </br>
+* Video guide
+  * [Video guide](#-video-guide-)
+* See the result
+  * [See the result](#-click-here-to-see-what-your-result-will-look-like-)
+* Questions and feedback
+  * [Questions and feedback](#-questions-and-feedback-)
 
-Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hướng dẫn này ở dưới dạng cho máy tính bằng cách mở trang web này trong trình duyệt chorme và làm theo hình bên dưới:
+Note: If you are on a phone, you need to open this guide in desktop mode by opening this page in the Chrome browser and following the image below:
 <p align="center"> <img src="/imagesGithub/mobile.png" alt="bg" /> </p>
 <hr>
 
-### Bước 1: Đăng nhập github
-Bạn phải có tài khoản github, nếu bạn chưa có hay đăng ký [Tại đây](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) </br>
-Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô cùng đơn giản thôi.</br></br>
-Follow github.</br>
+### Step 1: Sign in to GitHub
+You need a GitHub account. If you don't have one yet, sign up [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) </br>
+Once you're signed in, come back here — the next steps are really simple.</br></br>
+Follow on GitHub.</br>
 <p align="center"> <img src="/imagesGithub/follow.png" alt="bg" /> </p>
 
-Truy cập và đường link và ấn follow cho mình nhé: https://github.com/zukahai
+Visit this link and hit follow: https://github.com/zukahai
 
 
-### Bước 2: Fork Project
-Để có thể sửa trang web theo ý bạn, bạn cần phải fork project này. </br>
-Tại trang này hãy click vào 2 biểu tượng như hình bên dưới.
+### Step 2: Fork the project
+To customize the website however you like, you need to fork this project. </br>
+On this page, click the two icons shown below.
 <p align="center"> <img src="/imagesGithub/1.png" alt="fork" /> </p>
-Lưu ý: Sau khi bấm fork nên chờ khoảng 2 giây để nó chuyển trang nhé.
+Note: After clicking fork, wait about 2 seconds for the page to redirect.
 <p align="center"> <img src="/imagesGithub/fork.gif" alt="fork" /> </p>
 
-### Bước 3: Chỉnh sửa web theo ý của bạn.
-Để chỉnh sửa trong web theo ý của bạn, bản cần chỉnh sửa file config.js </br>
-Click vào chữ config.js để mở file đó lên.
+### Step 3: Customize the website however you like.
+To customize the website, you need to edit the config.js file. </br>
+Click on config.js to open that file.
 <p align="center"> <img src="/imagesGithub/2.png" alt="edit config.js" /> </p>
-Tiếp tục click vào biểu tượng bút chì như bên dưới để chỉnh sửa file này.
+Next, click the pencil icon shown below to edit this file.
 <p align="center"> <img src="/imagesGithub/3.png" alt="support" /> </p>
 
-Đến đây bạn hãy chỉnh sửa thông tin trong file đó theo ý của bạn. </br>
-Bạn có thể chỉnh sửa tên website, tên crush của bạn, chỉnh sửa đương link thành link message của bạn, ... </br>
-Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
+Now edit the information in that file however you like. </br>
+You can change the website name, your crush's name, change the link to your own messenger link, and so on. </br>
+Once you're done editing, remember to click here to save your changes.
 
 <p align="center"> <img src="/imagesGithub/4.png" alt="support" /> </p>
 
-### Bước 4: Tạo trang web
+### Step 4: Create the website
 
-Đầu tiên các bạn truy cập: https://vercel.com/login
+First, go to: https://vercel.com/login
 
-Chọn đăng nhập bằng github:
+Choose to sign in with GitHub:
 
 <p align="center"> <img src="/imagesGithub/vercel1.png" alt="support" /> </p>
 
-Sau khi đăng nhập, tại giao diện chính, bấm nút **Add New**, chọn **Project**
+After signing in, on the main screen, click the **Add New** button and choose **Project**
 
 <p align="center"> <img src="/imagesGithub/vercel2.png" alt="support" /> </p>
 
-Bấm **import** bên phải **Confress-Crush** như trong hình:
+Click **import** to the right of **Confress-Crush** as shown in the image:
 
 <p align="center"> <img src="/imagesGithub/vercel3.png" alt="support" /> </p>
 
-Chọn **Deploy** và chờ khoảng 1 phút để trang web của bạn được tạo.
+Choose **Deploy** and wait about a minute for your website to be created.
 
 <p align="center"> <img src="/imagesGithub/vercel4.png" alt="support" /> </p>
 
-Sau khi xuất hiện như hình dưới thì chúc mừng bạn đã tạo trang web thành công. Bấm vào theo như hình để lấy link trang web của bạn.
+Once you see the screen below, congratulations — your website has been created successfully. Click as shown in the image to get your website link.
 <p align="center"> <img src="/imagesGithub/vercel5.png" alt="support" /> </p>
 
 <hr>
 
-### <p align="center"> Video hướng dẫn </p>
-Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
+### <p align="center"> Video guide </p>
+Still can't get it working? You may have gone wrong at some step — watch the video guide to find out where.
 </br>
-Xem vide hướng dẫn ***[Tại đây](https://drive.google.com/file/d/1ACDGxlP3MsYQOsslN6WXzlDvyIc3V-MI/view?usp=drive_link)***
+Watch the video guide ***[here](https://drive.google.com/file/d/1ACDGxlP3MsYQOsslN6WXzlDvyIc3V-MI/view?usp=drive_link)***
 <p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>
 
 <br>
 
-### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+### [<p align="center"> Click here to see what your result will look like </p>](https://zukahai.github.io/Confess-Crush/)
 
 [<p align="center"> <img src="/imagesGithub/demo.png" alt="web" /> </p>](https://zukahai.github.io/Confess-Crush/)
 
 <hr>
 
-### <p align="center"> Câu hỏi và phản hồi </p>
+### <p align="center"> Questions and feedback </p>
 
-Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com/zukahai/Confess-Crush/issues/new)
+If you still can't get it working, or you don't know where you went wrong, click the image below or click [here](https://github.com/zukahai/Confess-Crush/issues/new)
 [<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com/zukahai/Confess-Crush/issues/new)
 
-### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
+### <p align="center">😘💔💙💓💝💟💑 Good luck to you all 💚💗💘💖💞💋👄</p>
 
-> Source-code được tham khảo từ nhiều nguồn.
+> Source code adapted from various sources.
