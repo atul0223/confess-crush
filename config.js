@@ -7,7 +7,7 @@ const CONFIG = {
     Just a silly little page for a favourite person.`,
     btnIntro: '^^HiHi^^',
     title: 'Be honest, am I your favourite person to talk to? 😄',
-    desc: 'Because you are definitely mine.',
+    desc: 'Because you have the prettiest eyes.',
     btnYes: 'Obviously <33',
     btnNo: 'Nope :3',
     question: '7 billion people out there and I still text you the most, explain that',
