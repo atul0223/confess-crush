@@ -41,6 +41,7 @@ function firstQuestion() {
     }).then(function() {
         $('.content').show(200);
         var audio = new Audio(CONFIG.bgMusic);
+        audio.loop = true;
         audio.play();
     })
 }
