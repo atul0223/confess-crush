@@ -16,5 +16,6 @@ const CONFIG = {
     mess: 'Knew it 😄. You are the best, seriously.',
     messDesc: 'Anyway, tell me when you are free this week. Coffee is on me.',
     btnAccept: 'Okiiiii <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //your messenger link. E.g: https://www.facebook.com/messages/t/100014188333536
+    bgMusic: 'sound/sound.mp3', //background music file. Drop your mp3 in the sound/ folder and point this at it
+    messLink: 'https://www.google.com' //redirect link at the end
 }
